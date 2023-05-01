@@ -7,7 +7,7 @@ function Footer() {
            <a href="">Instagram</a>
            </section>
            <section>
-            <h2>Hasan Tommalieh @ 2023</h2>
+            <h2>Hasan Tommalieh  @ 2023</h2>
            </section>
            
         </footer>
