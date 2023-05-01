@@ -1,7 +1,7 @@
 import Footer from "../Footer/Footer"
 import Header from "../header/Header"
 import Tours from "../tours/Tours"
-import data from "/home/hasantom/travel-destination/src/data/db.json"
+import data from "../data/db.json"
 
 function Home() {
 return ( 
