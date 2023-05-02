@@ -1,0 +1,23 @@
+.forCards {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+   background-color: antiquewhite;
+   border: solid burlywood 2px;
+}
+.cards {
+    
+    display: flex;
+    align-items: center;
+   
+} 
+.cards img {
+    width: 400px;
+    height: 350px;
+    border-radius: 20px;
+}
+.Link {
+    color: black;
+    
+}

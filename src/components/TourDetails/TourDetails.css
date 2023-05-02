@@ -1,0 +1,30 @@
+.forCardsDetail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+ }
+ /* .forCardsDetail p  {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ } */
+ 
+ .forCardsDetail img {
+ width: 1024px;
+ height: 720px;
+ border-top-left-radius: 20px;;
+ border-top-right-radius: 20px;;
+
+ }
+
+ .button1 {
+    color: inherit;
+ }
+
+ .para1 {
+    font-size: larger;
+ }
+

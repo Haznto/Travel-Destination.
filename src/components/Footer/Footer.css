@@ -1,0 +1,11 @@
+footer {
+    display: flex;
+    background-color: deepskyblue;
+    justify-content: space-around;
+    align-items: center;
+}
+.linksSection a {
+    text-decoration: none;
+}
+
+ 
